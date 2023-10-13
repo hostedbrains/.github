@@ -1,2 +1,3 @@
-# .github
-Hosted Brains profile
+### Hosted Brains Profile
+
+Welcome to Hosted Brains.
